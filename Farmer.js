@@ -1,15 +1,15 @@
 {
-    "name": "Your NFT Name",
-    "description": "NFT Description",
-    "image": "image url",
+    "name": "Farmer",
+    "description": "Nft for Crop buying",
+    "image": "https://raw.githubusercontent.com/Ytyatin/farming/main/frm.jpg",
     "attributes": [
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Name",
+            "value": "Rice"
         },
         {
-            "trait_type": "Trait Name",
-            "value": "Trait Value"
+            "trait_type": "Quantity in kg",
+            "value": "20"
         }
     ]
 }
